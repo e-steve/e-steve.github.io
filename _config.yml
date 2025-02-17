@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Digest normatiu de compliance RIA+RGPD+
+title: Digest normatiu de compliance RIA+RGPD+LOPD+LCSP
 email: your-email@domain.com
 author: Esteve
 description: > # this means to ignore newlines until "baseurl:"
@@ -29,8 +29,8 @@ baseurl: "/mkdocs-jekyll" # the subpath of your site, e.g. /blog
 url: "https://e-steve.github.io" # the base hostname & protocol for your site
 
 # Social (First three Required)
-repo: "https://github.com/vsoch/mkdocs-jekyll"
-github_user: "vsoch"
+repo: "https://github.com/e-steve/e-steve.github.io"
+github_user: "e-steve"
 github_repo: "mkdocs-jekyll"
 
 # Optional
