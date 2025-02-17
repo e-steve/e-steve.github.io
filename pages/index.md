@@ -28,6 +28,34 @@ and includes all the features that I might want.
 What are these features? You should see the {% include doc.html name="Getting Started" path="getting-started" %}
 guide for a complete summary. Briefly:
 
+### Documents de referència
+
+[Adecuación al RGPD de tratamientos que incorporan Inteligencia Artificial. Una introducción Responsable](
+https://www.aepd.es/guias/adecuacion-rgpd-ia.pdf)
+
+La figura de responsable de un tratamiento se define en el RGPD, en el artículo 4.730 del
+RGPD como la persona que determine los fines y medios del tratamiento, y el ámbito de sus
+obligaciones, que se enmarcan en el artículo 24, incluye, entre otras, la de “aplicar medidas
+técnicas y organizativas apropiadas a fin de garantizar y poder demostrar que el tratamiento
+es conforme con el presente Reglamento”.
+
+Corresponsable
+
+El RGPD introduce la figura del corresponsable del tratamiento en el artículo 26, como
+aquellos responsables (dos o más) que determinen conjuntamente los objetivos y los medios
+del tratamiento. Los corresponsables determinarán de modo transparente y de mutuo
+acuerdo sus responsabilidades respectivas en el cumplimiento de las obligaciones
+impuestas por el RGPD.
+
+Encargado
+
+El encargado del tratamiento es aquella persona que trate datos personales por cuenta
+del responsable, tal como se establece en el artículo 4.831 del RGPD, y el ámbito de sus
+obligaciones, que se enmarcan en el artículo 28, contempla, entre otras, que su relación con
+el responsable “se regirá por un contrato u otro acto jurídico con arreglo al Derecho de la
+Unión o de los Estados miembros, que vincule al encargado respecto del responsable”.
+
+
 ### Criteris interpretatius
  - *User interaction* including consistent permalinks, links to ask questions via GitHub issues, and edit the file on GitHub directly.
  - *Search* across posts, documentation, and other site pages, with an ability to exclude from search.
