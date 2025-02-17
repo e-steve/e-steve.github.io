@@ -1,4 +1,4 @@
-# Digest normatiu de compliance IA+LOPD
+# Digest normatiu de compliance RIA+RGPD+LOPD+LCSP
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Digest normatiu de compliance IA+LOPD
+title: Digest normatiu de compliance RIA+RGPD+
 email: your-email@domain.com
 author: Esteve
 description: > # this means to ignore newlines until "baseurl:"
@@ -26,7 +26,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/mkdocs-jekyll" # the subpath of your site, e.g. /blog
 
 # This is mostly for testing
-url: "https://vsoch.github.io" # the base hostname & protocol for your site
+url: "https://e-steve.github.io" # the base hostname & protocol for your site
 
 # Social (First three Required)
 repo: "https://github.com/vsoch/mkdocs-jekyll"
