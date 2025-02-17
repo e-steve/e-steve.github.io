@@ -1,4 +1,4 @@
-- title: "Getting Started"
+- title: "Normativa"
   url: "docs/getting-started"
   children:
     - title: Features
@@ -7,7 +7,7 @@
       url: "docs/getting-started#development"
     - title: Customization
       url: "docs/getting-started#customization"
-- title: "Extras"
+- title: "Doctrinas"
   url: "docs/extras"
   children:
     - title: Quizzes
