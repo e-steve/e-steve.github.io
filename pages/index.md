@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Digest normatiu de compliance IA+LOPD
+title: Digest normatiu de compliance RIA+RGPD
 author: Esteve
 permalink: /
 ---
 
-# Digest normatiu de compliance IA+LOPD 
+# Digest normatiu de compliance IA+DP
 
 This is a starter template for a mkdocs jekyll theme.
 <i class="fa fa-book"></i>
