@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Material Jekyll Theme
+title: Digest normatiu de compliance IA+LOPD
+author: Esteve
 permalink: /
 ---
 
-# Welcome to MkDocs Jekyll
+# Digest normatiu de compliance IA+LOPD 
 
 This is a starter template for a mkdocs jekyll theme.
-
-![assets/img/macbook-preview.png](assets/img/macbook-preview.png)
+<i class="fa fa-book"></i>
 
 ## Purpose
 
