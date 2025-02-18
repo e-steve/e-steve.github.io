@@ -25,8 +25,7 @@ and includes all the features that I might want.
 
 ## Doctrina administrativa
 
-What are these features? You should see the {% include doc.html name="Getting Started" path="getting-started" %}
-guide for a complete summary. Briefly:
+[**Directrices sobre la definición de sistema de inteligencia artificial establecida por la Ley de IA**](https://digital-strategy.ec.europa.eu/es/library/commission-publishes-guidelines-ai-system-definition-facilitate-first-ai-acts-rules-application)
 
 ### Documents de referència
 
