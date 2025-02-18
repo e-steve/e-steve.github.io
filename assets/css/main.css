@@ -2174,6 +2174,7 @@ html .md-typeset .superfences-tabs>label:hover {
 }
 .md-clipboard, .md-content__icon, .md-footer, .md-header, .md-sidebar, .md-tabs, .md-typeset .headerlink {
     display: none;
+    font-weight: bold;
 }
 }
 @media only screen and (max-width:44.9375em) {
