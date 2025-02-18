@@ -24,7 +24,7 @@ some time creating a custom Jekyll template that is (almost) as beautiful,
 and includes all the features that I might want.
 
 ## Doctrina administrativa
-- :white_check_mark: Finished Items
+:white_check_mark: ENLLAÇ
 [**Directrices sobre la definición de sistema de inteligencia artificial establecida por la Ley de IA**](https://digital-strategy.ec.europa.eu/es/library/commission-publishes-guidelines-ai-system-definition-facilitate-first-ai-acts-rules-application)
 
 ### Documents de referència
