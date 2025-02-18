@@ -7,14 +7,14 @@
       url: "docs/getting-started#development"
     - title: Enllaços
       url: "docs/getting-started#customization"
-- title: "Esquemes"
+- title: "Sandboxes"
   url: "docs/extras"
   children:
     - title: Tests
       url: "docs/extras/example-quiz"
-    - title: Discussion Forum
+    - title: Fluxes
       url: "Fluxes"
-    - title: Interactive Code
+    - title: Esquemes
       url: "docs/extras/interactive"
 - title: "Projecte"
   url: "about"
