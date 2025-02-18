@@ -123,15 +123,24 @@ Aparte de la nueva norma sobre protección de datos, cabe indicar determinadas n
 
 ## Enllaços externs
 
-https://apdcat.gencat.cat/ca/sala_de_premsa/agenda/
+[Agenda APD](https://apdcat.gencat.cat/ca/sala_de_premsa/agenda/)
+
 [Oficina de IA](https://ec.europa.eu/commission/presscorner/detail/es/ip_24_2982)
+
 https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/excellence-and-trust-artificial-intelligence_es
-https://oeiac.cat/cataleg-legal/
-https://politiquesdigitals.gencat.cat/ca/detalls/Noticia/model-pio
+
+[OEIAC](https://oeiac.cat/cataleg-legal/)
+
+[MODEL PIO](https://politiquesdigitals.gencat.cat/ca/detalls/Noticia/model-pio)
+
 https://politiquesdigitals.gencat.cat/ca/economia/catalonia-ai/index.html
+
 https://airacat.eu/ca/
+
 https://eur-lex.europa.eu/eli/dir/2022/2555/oj
-https://www.incibe.es/incibe-cert/sectores-estrategicos/NIS2-necesitas-saber
+
+[INCIBE NIS2](https://www.incibe.es/incibe-cert/sectores-estrategicos/NIS2-necesitas-saber)
+
 https://oeiac.cat/preavaluacio/
 
 ## Normativa connexa
