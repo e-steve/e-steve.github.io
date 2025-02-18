@@ -11,11 +11,44 @@ This is a starter template for a mkdocs jekyll theme.
 <i class="fa fa-book"></i>
 
 ## Normativa
+Reglamento (UE) 2024/1689 BOE https://www.boe.es/buscar/doc.php?id=DOUE-L-2024-81079
+Reglamento (UE) 2024/1689 EUR-Lex https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024R1689
+
+Reglamento (UE) 2016/679 https://www.boe.es/buscar/doc.php?id=DOUE-L-2016-80807
+RGPD Eur-Lex https://eur-lex.europa.eu/ES/legal-content/summary/general-data-protection-regulation-gdpr.html
 
 Ley Europea de Chips https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/european-chips-act_es
 Reglamento de servicios digitales https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act_es
 Reglamento de Mercados Digitales: garantizar unos mercados digitales justos y abiertos. https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-markets-act-ensuring-fair-and-open-digital-markets_es
 Entrada en vigor de la Ley sobre la Europa Interoperable  https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age_es#:~:text=Entrada%20en%20vigor%20de%20la%20Ley%20sobre%20la%20Europa%20Interoperable
+
+### Dret administratiu i Contractació
+
+#### Códigos electrónicos del BOE (actualizats):
+Código de Derecho Administrativo https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=44&modo=2&nota=0&tab=2
+Derechos Ciudadanos en su relación con la Administración Pública https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=275&modo=2&nota=0&tab=2
+Código Procedimiento Administrativo Común https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=282_Procedimiento_Administrativo_Comun&tipo=C&modo=2
+Código de Administración Electrónica https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=29&modo=2&nota=0&tab=2
+Código de Contratos del Sector Público https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=31&modo=2&nota=0&tab=2
+Transparencia y Buen Gobierno https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=331&modo=2&nota=0&tab=2
+Ámbitos de la Seguridad Nacional: Protección de Infraestructuras Críticas https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=400&modo=2&nota=0&tab=2
+Código de Derecho de la Ciberseguridad https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=173&modo=2&nota=0&tab=2
+Código de Propiedad Industrial https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=067_Propiedad_Industrial&tipo=C&modo=2
+Código del Plan de Recuperación, Transformación y Resiliencia https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=464_Codigo_del_Plan_de_Recuperacion_Transformacion_y_Resiliencia&tipo=C&modo=2
+Código de Derecho Público de Cataluña (Parte general) https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=167&modo=2&nota=0&tab=2
+Código de Derecho Público de Cataluña (Parte especial) https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=201_Codigo_de_Derecho_Publico_de_Cataluna__Parte_especial&tipo=C&modo=2
+Código de Leyes Civiles de Cataluña https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=150&modo=2&nota=0&tab=2
+Código de Derecho de la Sostenibilidad https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=335_Codigo_de_Derecho_de_la_Sostenibilidad&tipo=C&modo=2
+Código de la Protección de Datos de Carácter Personal https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=55&modo=2&nota=0&tab=2
+Código del Derecho al Olvido https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=94&modo=2&nota=0&tab=2
+Código de Derecho Constitucional https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=42&modo=2&nota=0&tab=2
+Código de Régimen Local https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=019_Codigo_de_Regimen_Local&tipo=C&modo=2
+
+Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902
+
+(https://formaciooberta.eapc.gencat.cat/espaistematics/contractacio/el-nou-reglament-europeu-de-proteccio-de-dades-i-la-seva-incidencia-en-els-contractes-publics.html)
+
+### Propietat intel·lectual/industrial
 
 
 ### En tramitació:
@@ -27,6 +60,7 @@ Acuerdo político sobre la Ley de Ciberresiliencia https://ec.europa.eu/commissi
  
 
 ## Doctrina administrativa
+[**Guía Requisitos para auditorías de tratamientos de datos personales que incluyan Inteligencia Artificial**](https://www.aepd.es/documento/requisitos-auditorias-tratamientos-incluyan-ia.pdf)
 
 [**RGPD vs. RIA Anàlisi d’una intersecció parcial**](https://apdcat.gencat.cat/web/.content/03-documentacio/estudis-recerca/RGPDvsRIA.pdf)
 
@@ -84,37 +118,11 @@ https://eapc.gencat.cat/web/.content/home/biblioteca/fons-coleccions/docs_eapc/a
 
 Elaborar una avaluació d’impacte relativa a la protecció de dades https://apdcat.gencat.cat/ca/drets_i_obligacions/responsables/obligacions/avaluacio-impacte-relativa-proteccio-dades/
 
+Vocubulari IA normalizat del Termcat https://www.termcat.cat/ca/recursos/productes-multimedia/intelligencia-artificial-vocabulari-basic
+
 TERMCAT, CENTRE DE TERMINOLOGIA. Intel·ligència artificial: vocabulari bàsic [en línia]. Barcelona: TERMCAT, Centre de Terminologia, 2023. 1 infografia.
 <https://www.termcat.cat/ca/recursos/productes-multimedia/intelligencia-artificial-vocabulari-basic>
 
-## Dret administratiu i Contractació
-
-Código de Derecho Administrativo https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=44&modo=2&nota=0&tab=2
-Derechos Ciudadanos en su relación con la Administración Pública https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=275&modo=2&nota=0&tab=2
-Código Procedimiento Administrativo Común https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=282_Procedimiento_Administrativo_Comun&tipo=C&modo=2
-Código de Administración Electrónica https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=29&modo=2&nota=0&tab=2
-Código de Contratos del Sector Público https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=31&modo=2&nota=0&tab=2
-Transparencia y Buen Gobierno https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=331&modo=2&nota=0&tab=2
-Ámbitos de la Seguridad Nacional: Protección de Infraestructuras Críticas https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=400&modo=2&nota=0&tab=2
-Código de Derecho de la Ciberseguridad https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=173&modo=2&nota=0&tab=2
-Código de Propiedad Industrial https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=067_Propiedad_Industrial&tipo=C&modo=2
-Código del Plan de Recuperación, Transformación y Resiliencia https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=464_Codigo_del_Plan_de_Recuperacion_Transformacion_y_Resiliencia&tipo=C&modo=2
-Código de Derecho Público de Cataluña (Parte general) https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=167&modo=2&nota=0&tab=2
-Código de Derecho Público de Cataluña (Parte especial) https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=201_Codigo_de_Derecho_Publico_de_Cataluna__Parte_especial&tipo=C&modo=2
-Código de Leyes Civiles de Cataluña https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=150&modo=2&nota=0&tab=2
-Código de Derecho de la Sostenibilidad https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=335_Codigo_de_Derecho_de_la_Sostenibilidad&tipo=C&modo=2
-Código de la Protección de Datos de Carácter Personal https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=55&modo=2&nota=0&tab=2
-Código del Derecho al Olvido https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=94&modo=2&nota=0&tab=2
-Código de Derecho Constitucional https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=42&modo=2&nota=0&tab=2
-
-
-
-Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902
-
-(https://formaciooberta.eapc.gencat.cat/espaistematics/contractacio/el-nou-reglament-europeu-de-proteccio-de-dades-i-la-seva-incidencia-en-els-contractes-publics.html)
-
-
-## Propietat intel·lectual/industrial
 
 ## Transparència
 
