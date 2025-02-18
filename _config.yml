@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Digest normatiu de compliance RIA+RGPD+LOPD+LCSP
+title: Digest normatiu d'IA i Protecció de dades
 email: your-email@domain.com
 author: Esteve
 description: > # this means to ignore newlines until "baseurl:"
