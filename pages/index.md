@@ -5,7 +5,7 @@ author: Esteve
 permalink: /
 ---
 
-# Digest normatiu de compliance IA+DP
+# Digest normatiu d'IA i Protecció de dades
 
 This is a starter template for a mkdocs jekyll theme.
 <i class="fa fa-book"></i>
@@ -84,3 +84,11 @@ guide for a complete summary. Briefly:
 
 For features, getting started with development, see the {% include doc.html name="Getting Started" path="getting-started" %} page. Would you like to request a feature or contribute?
 [Open an issue]({{ site.repo }}/issues)
+
+## Contractació
+
+## Propietat intel·lectual/industrial
+
+## Transparència
+
+## Normativa connexa
