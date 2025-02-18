@@ -1,22 +1,22 @@
-- title: "Normativa"
+- title: "Repositori"
   url: "docs/getting-started"
   children:
-    - title: Features
+    - title: Documents
       url: "docs/getting-started#getting-started"
-    - title: Development
+    - title: Programari
       url: "docs/getting-started#development"
-    - title: Customization
+    - title: Enllaços
       url: "docs/getting-started#customization"
-- title: "Doctrinas"
+- title: "Esquemes"
   url: "docs/extras"
   children:
-    - title: Quizzes
+    - title: Tests
       url: "docs/extras/example-quiz"
     - title: Discussion Forum
-      url: "forum"
+      url: "Fluxes"
     - title: Interactive Code
       url: "docs/extras/interactive"
-- title: "About"
+- title: "Projecte"
   url: "about"
-- title: "News"
+- title: "Novetats"
   url: "news"
