@@ -186,14 +186,14 @@ https://airacat.eu/ca/
 
 https://eur-lex.europa.eu/eli/dir/2022/2555/oj
 
-<p>
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Llicència de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Aquesta obra està subjecta a una llicència de <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Reconeixement-NoComercial-CompartirIgual 4.0 Internacional de Creative Commons</a>
-
-</p>
 
 [INCIBE NIS2](https://www.incibe.es/incibe-cert/sectores-estrategicos/NIS2-necesitas-saber)
 
 https://oeiac.cat/preavaluacio/
 
 ## Normativa connexa
+
+***
+<p>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Llicència de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Aquesta obra està subjecta a una llicència de <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Reconeixement-NoComercial-CompartirIgual 4.0 Internacional de Creative Commons</a>
+</p>
