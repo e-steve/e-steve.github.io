@@ -20,46 +20,60 @@ Principi d’integritat i confidencialitat.
 ```
 
 ## Normativa
->IA
+>
 [**Reglamento (UE) 2024/1689 BOE**](https://www.boe.es/buscar/doc.php?id=DOUE-L-2024-81079)
 >
 [**Reglamento (UE) 2024/1689 EUR-Lex**](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024R1689)
 
->DP
+>
 [**Reglamento (UE) 2016/679**](https://www.boe.es/buscar/doc.php?id=DOUE-L-2016-80807)
 >
 [**RGPD Eur-Lex**](https://eur-lex.europa.eu/ES/legal-content/summary/general-data-protection-regulation-gdpr.html)
 
-[Ley Europea de Chips](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/european-chips-act_es)
+- [Ley Europea de Chips](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/european-chips-act_es)
 
-[Reglamento de servicios digitales](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act_es)
+- [Reglamento de servicios digitales](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act_es)
 
-[Reglamento de Mercados Digitales: garantizar unos mercados digitales justos y abiertos.](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-markets-act-ensuring-fair-and-open-digital-markets_es)
+- [Reglamento de Mercados Digitales: garantizar unos mercados digitales justos y abiertos.](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-markets-act-ensuring-fair-and-open-digital-markets_es)
 
-[Entrada en vigor de la Ley sobre la Europa Interoperable](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age_es#:~:text=Entrada%20en%20vigor%20de%20la%20Ley%20sobre%20la%20Europa%20Interoperable)
+- [Entrada en vigor de la Ley sobre la Europa Interoperable](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age_es#:~:text=Entrada%20en%20vigor%20de%20la%20Ley%20sobre%20la%20Europa%20Interoperable)
 
 ### Códigos electrónicos del BOE (actualizats):
 
 > [**Código Procedimiento Administrativo Común**](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=282_Procedimiento_Administrativo_Comun&tipo=C&modo=2)
+
 [**Código de Administración Electrónica**](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=29&modo=2&nota=0&tab=2)
+
 > [**Código de Contratos del Sector Público**](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=31&modo=2&nota=0&tab=2)
+
 [**Transparencia y Buen Gobierno**](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=331&modo=2&nota=0&tab=2)
+
 > [**Ámbitos de la Seguridad Nacional: Protección de Infraestructuras Críticas**](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=400&modo=2&nota=0&tab=2)
+
 > [**Código de la Protección de Datos de Carácter Personal**](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=55&modo=2&nota=0&tab=2)
+
 [**Código de Régimen Local**](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=019_Codigo_de_Regimen_Local&tipo=C&modo=2)
 
 > [Código de Derecho Administrativo](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=44&modo=2&nota=0&tab=2)
+
 [Derechos Ciudadanos en su relación con la Administración Pública](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=275&modo=2&nota=0&tab=2)
 
 > [Código de Derecho de la Ciberseguridad](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=173&modo=2&nota=0&tab=2)
+
 [Código de Propiedad Industrial](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=067_Propiedad_Industrial&tipo=C&modo=2)
+
 [Código del Plan de Recuperación, Transformación y Resiliencia](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=464_Codigo_del_Plan_de_Recuperacion_Transformacion_y_Resiliencia&tipo=C&modo=2)
+
 [Código de Derecho Público de Cataluña (Parte general)](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=167&modo=2&nota=0&tab=2)
+
 [Código de Derecho Público de Cataluña (Parte especial)](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=201_Codigo_de_Derecho_Publico_de_Cataluna__Parte_especial&tipo=C&modo=2)
+
 [Código de Leyes Civiles de Cataluña](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=150&modo=2&nota=0&tab=2)
+
 [Código de Derecho de la Sostenibilidad](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=335_Codigo_de_Derecho_de_la_Sostenibilidad&tipo=C&modo=2)
 
 [Código del Derecho al Olvido](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=94&modo=2&nota=0&tab=2)
+
 [Código de Derecho Constitucional](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=42&modo=2&nota=0&tab=2)
 
 >
@@ -111,6 +125,7 @@ En estos casos, el tercero tendrá también la consideración de encargado del t
  
 ## Doctrina administrativa
 
+>
 [**Cuándo hay que revisar las medidas de protección de datos**](https://www.aepd.es/prensa-y-comunicacion/blog/cuando-hay-que-revisar-las-medidas-de-proteccion-de-datos)
 >
 [**Opinion 28/2024 on certain data protection aspects related to the processing of personal data in the context of AI models**](https://www.edpb.europa.eu/our-work-tools/our-documents/opinion-board-art-64/opinion-282024-certain-data-protection-aspects_en)
@@ -136,19 +151,14 @@ es conforme con el presente Reglamento”.*
 
 **Corresponsable**
 
-El RGPD introduce la figura del corresponsable del tratamiento en el artículo 26, como
-aquellos responsables (dos o más) que determinen conjuntamente los objetivos y los medios
-del tratamiento. Los corresponsables determinarán de modo transparente y de mutuo
-acuerdo sus responsabilidades respectivas en el cumplimiento de las obligaciones
-impuestas por el RGPD.
+*El RGPD introduce la figura del corresponsable del tratamiento en el artículo 26, como aquellos responsables (dos o más) que determinen conjuntamente los objetivos y los medios del tratamiento. Los corresponsables determinarán de modo transparente y de mutuo acuerdo sus responsabilidades respectivas en el cumplimiento de las obligaciones
+impuestas por el RGPD.*
 
 **Encargado**
 
-El encargado del tratamiento es aquella persona que trate datos personales por cuenta
-del responsable, tal como se establece en el artículo 4.831 del RGPD, y el ámbito de sus
-obligaciones, que se enmarcan en el artículo 28, contempla, entre otras, que su relación con
-el responsable “se regirá por un contrato u otro acto jurídico con arreglo al Derecho de la
-Unión o de los Estados miembros, que vincule al encargado respecto del responsable”.
+*El encargado del tratamiento es aquella persona que trate datos personales por cuenta del responsable, tal como se establece en el artículo 4.831 del RGPD, y el ámbito de sus
+obligaciones, que se enmarcan en el artículo 28, contempla, entre otras, que su relación con el responsable “se regirá por un contrato u otro acto jurídico con arreglo al Derecho de la
+Unión o de los Estados miembros, que vincule al encargado respecto del responsable”.*
 
 ## Doctrina acadèmica
 >
@@ -162,7 +172,7 @@ Unión o de los Estados miembros, que vincule al encargado respecto del responsa
 >
 [Decisiones automatizadas en el RGPD. El uso de algoritmos en el contexto de la protección de datos.](https://laadministracionaldia.inap.es/noticia.asp?id=1509629)
 
-> Aparte de la nueva norma sobre protección de datos, cabe indicar determinadas normas nacionales que hacen mención a las decisiones automatizadas. Así, en el ámbito administrativo se hace referencia a la actuación administrativa automatizada, previéndose entre otras garantías la posibilidad de realizar auditorías a los códigos fuentes en los que se basan los programas que dictan dichos actos administrativos, así como el órgano competente a efectos de la impugnación de tal decisión. (Art 41.2 LRJSP. Ley 40/2015). A su vez, en términos muy parecidos, el Art 96.3 LGT Ley 58/2003, de 17 de diciembre, General Tributaria hace referencia también a las decisiones automatizadas(56).
+> *Aparte de la nueva norma sobre protección de datos, cabe indicar determinadas normas nacionales que hacen mención a las decisiones automatizadas. Así, en el ámbito administrativo se hace referencia a la actuación administrativa automatizada, previéndose entre otras garantías la posibilidad de realizar auditorías a los códigos fuentes en los que se basan los programas que dictan dichos actos administrativos, así como el órgano competente a efectos de la impugnación de tal decisión. (Art 41.2 LRJSP. Ley 40/2015). A su vez, en términos muy parecidos, el Art 96.3 LGT Ley 58/2003, de 17 de diciembre, General Tributaria hace referencia también a las decisiones automatizadas(56).*
 
 ## Transparència
 
