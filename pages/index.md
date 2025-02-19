@@ -24,7 +24,7 @@ Principi d’integritat i confidencialitat.
 [**Reglamento (UE) 2024/1689 BOE**](https://www.boe.es/buscar/doc.php?id=DOUE-L-2024-81079)
 [**Reglamento (UE) 2024/1689 EUR-Lex**](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024R1689)
 
-> [!IMPORTANT] 
+> 
 [**Reglamento (UE) 2016/679**](https://www.boe.es/buscar/doc.php?id=DOUE-L-2016-80807)
 [**RGPD Eur-Lex**](https://eur-lex.europa.eu/ES/legal-content/summary/general-data-protection-regulation-gdpr.html)
 
@@ -38,9 +38,9 @@ Principi d’integritat i confidencialitat.
 [Real Decreto-ley 14/2019, de 31 de octubre, por el que se adoptan medidas urgentes por razones de seguridad pública en materia de administración digital, contratación del sector público y telecomunicaciones.](https://www.boe.es/buscar/act.php?id=BOE-A-2019-15790)
 
 #### LCSP: DA25
-
->[!IMPORTANT] 
+>
 Disposición adicional vigésima quinta. Protección de datos de carácter personal.
+
 1. Los contratos regulados en la presente Ley que impliquen el tratamiento de datos de carácter personal deberán respetar en su integridad la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, y su normativa de desarrollo.
 
 2. Para el caso de que la contratación implique el acceso del contratista a datos de carácter personal de cuyo tratamiento sea responsable la entidad contratante, aquel tendrá la consideración de encargado del tratamiento.
@@ -85,10 +85,10 @@ En estos casos, el tercero tendrá también la consideración de encargado del t
 [Código del Derecho al Olvido](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=94&modo=2&nota=0&tab=2)
 [Código de Derecho Constitucional](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=42&modo=2&nota=0&tab=2)
 
->[!IMPORTANT] 
+>
 [**Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público**](https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902)
 
->[!IMPORTANT] 
+>
 [El nou reglament europeu de protecció de dades i la seva incidència en els contractes públics](https://formaciooberta.eapc.gencat.cat/espaistematics/contractacio/el-nou-reglament-europeu-de-proteccio-de-dades-i-la-seva-incidencia-en-els-contractes-publics.html)
 
 ### Propietat intel·lectual/industrial
@@ -108,16 +108,15 @@ En estos casos, el tercero tendrá también la consideración de encargado del t
 ## Doctrina administrativa
 
 [**Cuándo hay que revisar las medidas de protección de datos**](https://www.aepd.es/prensa-y-comunicacion/blog/cuando-hay-que-revisar-las-medidas-de-proteccion-de-datos)
->[!IMPORTANT]
-
+>
 [**Opinion 28/2024 on certain data protection aspects related to the processing of personal data in the context of AI models**](https://www.edpb.europa.eu/our-work-tools/our-documents/opinion-board-art-64/opinion-282024-certain-data-protection-aspects_en)
 
 [Requisitos para Auditorías de Tratamientos que incluyan IA](https://www.aepd.es/guias/requisitos-auditorias-tratamientos-incluyan-ia.pdf)
->[!IMPORTANT] 
+>
 [**Guía Requisitos para auditorías de tratamientos de datos personales que incluyan Inteligencia Artificial**](https://www.aepd.es/documento/requisitos-auditorias-tratamientos-incluyan-ia.pdf)
 
 [**El nou Esquema Nacional de Seguretat i la prevalença de la protecció de dades personals**](https://formaciooberta.eapc.gencat.cat/espaistematics/gestio-dades/el-nou-esquema-nacional-de-seguretat-i-la-prevalenca-de-la-proteccio-de-dades-personals.html)
->[!IMPORTANT] 
+>
 [**RGPD vs. RIA Anàlisi d’una intersecció parcial**](https://apdcat.gencat.cat/web/.content/03-documentacio/estudis-recerca/RGPDvsRIA.pdf)
 
 [**Directrices sobre la definición de sistema de inteligencia artificial establecida por la Ley de IA**](https://digital-strategy.ec.europa.eu/es/library/commission-publishes-guidelines-ai-system-definition-facilitate-first-ai-acts-rules-application)
@@ -125,8 +124,7 @@ En estos casos, el tercero tendrá también la consideración de encargado del t
 [Informe sobre la Década Digital de 2024](https://commission.europa.eu/news/digital-decade-2024-report-calls-strengthened-collective-action-2024-07-03_es)
 
 ### Documents de referència
->[!IMPORTANT]
-
+>
 [**Adecuación al RGPD de tratamientos que incorporan Inteligencia Artificial. Una introducción Responsable**](https://www.aepd.es/guias/adecuacion-rgpd-ia.pdf)
 
 La figura de responsable de un tratamiento se define en el RGPD, en el artículo 4.730 del
@@ -155,16 +153,15 @@ Unión o de los Estados miembros, que vincule al encargado respecto del responsa
 
 
 ## Doctrina acadèmica
->[!IMPORTANT]
+>
 [La regulació europea sobre IA: oportunitats, riscos i escenaris de futur amb mirada metropolitana](https://www.cidob.org/ca/publicacions/la-regulacio-europea-sobre-ia-oportunitats-riscos-i-escenaris-de-futur-amb-mirada)
->[!IMPORTANT]
-
+>
 [Elaborar una avaluació d’impacte relativa a la protecció de dades](https://apdcat.gencat.cat/ca/drets_i_obligacions/responsables/obligacions/avaluacio-impacte-relativa-proteccio-dades/)
 
 [Vocubulari IA normalizat del Termcat](https://www.termcat.cat/ca/recursos/productes-multimedia/intelligencia-artificial-vocabulari-basic)
 
 ### Actuacions administratives automatitzades
->[!IMPORTANT] 
+>
 [Decisiones automatizadas en el RGPD. El uso de algoritmos en el contexto de la protección de datos.](https://laadministracionaldia.inap.es/noticia.asp?id=1509629)
 
 Aparte de la nueva norma sobre protección de datos, cabe indicar determinadas normas nacionales que hacen mención a las decisiones automatizadas. Así, en el ámbito administrativo se hace referencia a la actuación administrativa automatizada, previéndose entre otras garantías la posibilidad de realizar auditorías a los códigos fuentes en los que se basan los programas que dictan dichos actos administrativos, así como el órgano competente a efectos de la impugnación de tal decisión. (Art 41.2 LRJSP. Ley 40/2015). A su vez, en términos muy parecidos, el Art 96.3 LGT Ley 58/2003, de 17 de diciembre, General Tributaria hace referencia también a las decisiones automatizadas(56).
