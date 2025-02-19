@@ -7,6 +7,17 @@ permalink: /
 
 # Digest normatiu d'IA i Protecció de dades
 
+Els principis rectors del tractament de dades personals es troben recollits principalment en l’article 5:
+```
+Principi de responsabilitat proactiva (accountability)
+Principi de licitud, lleialtat i transparència
+Principi de limitació de la finalitat
+Principi de minimització de les dades
+Principi de limitació del termini de conservació
+Principi d’exactitud
+Principi d’integritat i confidencialitat.
+```
+
 ## Normativa
 [**Reglamento (UE) 2024/1689 BOE**](https://www.boe.es/buscar/doc.php?id=DOUE-L-2024-81079)
 [**Reglamento (UE) 2024/1689 EUR-Lex**](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024R1689)
@@ -167,6 +178,12 @@ https://politiquesdigitals.gencat.cat/ca/economia/catalonia-ai/index.html
 https://airacat.eu/ca/
 
 https://eur-lex.europa.eu/eli/dir/2022/2555/oj
+
+<p>
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Llicència de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Aquesta obra està subjecta a una llicència de <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Reconeixement-NoComercial-CompartirIgual 4.0 Internacional de Creative Commons</a>
+
+</p>
 
 [INCIBE NIS2](https://www.incibe.es/incibe-cert/sectores-estrategicos/NIS2-necesitas-saber)
 
