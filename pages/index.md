@@ -177,6 +177,7 @@ Unión o de los Estados miembros, que vincule al encargado respecto del responsa
 ## Transparència
 
 ## Enllaços externs
+[**Gestió dels Riscos**](https://formaciooberta.eapc.gencat.cat/contingutsdelscursos/mcqsp/unitat7/inici.html)
 
 [Agenda APD](https://apdcat.gencat.cat/ca/sala_de_premsa/agenda/)
 
