@@ -93,6 +93,8 @@ En estos casos, el tercero tendrá también la consideración de encargado del t
 
 [**Guía Requisitos para auditorías de tratamientos de datos personales que incluyan Inteligencia Artificial**](https://www.aepd.es/documento/requisitos-auditorias-tratamientos-incluyan-ia.pdf)
 
+[**El nou Esquema Nacional de Seguretat i la prevalença de la protecció de dades personals**](https://formaciooberta.eapc.gencat.cat/espaistematics/gestio-dades/el-nou-esquema-nacional-de-seguretat-i-la-prevalenca-de-la-proteccio-de-dades-personals.html)
+
 [**RGPD vs. RIA Anàlisi d’una intersecció parcial**](https://apdcat.gencat.cat/web/.content/03-documentacio/estudis-recerca/RGPDvsRIA.pdf)
 
 [**Directrices sobre la definición de sistema de inteligencia artificial establecida por la Ley de IA**](https://digital-strategy.ec.europa.eu/es/library/commission-publishes-guidelines-ai-system-definition-facilitate-first-ai-acts-rules-application)
