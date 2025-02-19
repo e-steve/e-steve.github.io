@@ -42,7 +42,7 @@ b) Que el tratamiento de datos de carácter personal se ajuste a las instruccion
 c) Que el contratista encargado del tratamiento y el tercero formalicen el contrato en los términos previstos en el artículo 12.2 de la Ley Orgánica 15/1999, de 13 de diciembre.
 
 En estos casos, el tercero tendrá también la consideración de encargado del tratamiento.*
-~~~
+
 
 #### Códigos electrónicos del BOE (actualizats):
 
