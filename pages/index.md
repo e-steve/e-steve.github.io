@@ -61,20 +61,20 @@ c) Que el contratista encargado del tratamiento y el tercero formalicen el contr
 
 En estos casos, el tercero tendrá también la consideración de encargado del tratamiento.*
 
-#### Códigos electrónicos del BOE (actualizats):
+### Códigos electrónicos del BOE (actualizats):
 
-[**Código Procedimiento Administrativo Común**](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=282_Procedimiento_Administrativo_Comun&tipo=C&modo=2)
+> [**Código Procedimiento Administrativo Común**](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=282_Procedimiento_Administrativo_Comun&tipo=C&modo=2)
 [**Código de Administración Electrónica**](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=29&modo=2&nota=0&tab=2)
-[**Código de Contratos del Sector Público**](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=31&modo=2&nota=0&tab=2)
+> [**Código de Contratos del Sector Público**](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=31&modo=2&nota=0&tab=2)
 [**Transparencia y Buen Gobierno**](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=331&modo=2&nota=0&tab=2)
-[**Ámbitos de la Seguridad Nacional: Protección de Infraestructuras Críticas**](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=400&modo=2&nota=0&tab=2)
-[**Código de la Protección de Datos de Carácter Personal**](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=55&modo=2&nota=0&tab=2)
+> [**Ámbitos de la Seguridad Nacional: Protección de Infraestructuras Críticas**](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=400&modo=2&nota=0&tab=2)
+> [**Código de la Protección de Datos de Carácter Personal**](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=55&modo=2&nota=0&tab=2)
 [**Código de Régimen Local**](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=019_Codigo_de_Regimen_Local&tipo=C&modo=2)
 
-[Código de Derecho Administrativo](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=44&modo=2&nota=0&tab=2)
+> [Código de Derecho Administrativo](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=44&modo=2&nota=0&tab=2)
 [Derechos Ciudadanos en su relación con la Administración Pública](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=275&modo=2&nota=0&tab=2)
 
-[Código de Derecho de la Ciberseguridad](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=173&modo=2&nota=0&tab=2)
+> [Código de Derecho de la Ciberseguridad](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=173&modo=2&nota=0&tab=2)
 [Código de Propiedad Industrial](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=067_Propiedad_Industrial&tipo=C&modo=2)
 [Código del Plan de Recuperación, Transformación y Resiliencia](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=464_Codigo_del_Plan_de_Recuperacion_Transformacion_y_Resiliencia&tipo=C&modo=2)
 [Código de Derecho Público de Cataluña (Parte general)](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=167&modo=2&nota=0&tab=2)
@@ -114,7 +114,7 @@ En estos casos, el tercero tendrá también la consideración de encargado del t
 [Requisitos para Auditorías de Tratamientos que incluyan IA](https://www.aepd.es/guias/requisitos-auditorias-tratamientos-incluyan-ia.pdf)
 >
 [**Guía Requisitos para auditorías de tratamientos de datos personales que incluyan Inteligencia Artificial**](https://www.aepd.es/documento/requisitos-auditorias-tratamientos-incluyan-ia.pdf)
-
+>
 [**El nou Esquema Nacional de Seguretat i la prevalença de la protecció de dades personals**](https://formaciooberta.eapc.gencat.cat/espaistematics/gestio-dades/el-nou-esquema-nacional-de-seguretat-i-la-prevalenca-de-la-proteccio-de-dades-personals.html)
 >
 [**RGPD vs. RIA Anàlisi d’una intersecció parcial**](https://apdcat.gencat.cat/web/.content/03-documentacio/estudis-recerca/RGPDvsRIA.pdf)
@@ -127,11 +127,8 @@ En estos casos, el tercero tendrá también la consideración de encargado del t
 >
 [**Adecuación al RGPD de tratamientos que incorporan Inteligencia Artificial. Una introducción Responsable**](https://www.aepd.es/guias/adecuacion-rgpd-ia.pdf)
 
-La figura de responsable de un tratamiento se define en el RGPD, en el artículo 4.730 del
-RGPD como la persona que determine los fines y medios del tratamiento, y el ámbito de sus
-obligaciones, que se enmarcan en el artículo 24, incluye, entre otras, la de “aplicar medidas
-técnicas y organizativas apropiadas a fin de garantizar y poder demostrar que el tratamiento
-es conforme con el presente Reglamento”.
+*La figura de responsable de un tratamiento se define en el RGPD, en el artículo 4.730 del RGPD como la persona que determine los fines y medios del tratamiento, y el ámbito de sus obligaciones, que se enmarcan en el artículo 24, incluye, entre otras, la de “aplicar medidas técnicas y organizativas apropiadas a fin de garantizar y poder demostrar que el tratamiento
+es conforme con el presente Reglamento”.*
 
 **Corresponsable**
 
@@ -149,9 +146,6 @@ obligaciones, que se enmarcan en el artículo 28, contempla, entre otras, que su
 el responsable “se regirá por un contrato u otro acto jurídico con arreglo al Derecho de la
 Unión o de los Estados miembros, que vincule al encargado respecto del responsable”.
 
-### Criteris interpretatius
-
-
 ## Doctrina acadèmica
 >
 [La regulació europea sobre IA: oportunitats, riscos i escenaris de futur amb mirada metropolitana](https://www.cidob.org/ca/publicacions/la-regulacio-europea-sobre-ia-oportunitats-riscos-i-escenaris-de-futur-amb-mirada)
@@ -164,7 +158,7 @@ Unión o de los Estados miembros, que vincule al encargado respecto del responsa
 >
 [Decisiones automatizadas en el RGPD. El uso de algoritmos en el contexto de la protección de datos.](https://laadministracionaldia.inap.es/noticia.asp?id=1509629)
 
-Aparte de la nueva norma sobre protección de datos, cabe indicar determinadas normas nacionales que hacen mención a las decisiones automatizadas. Así, en el ámbito administrativo se hace referencia a la actuación administrativa automatizada, previéndose entre otras garantías la posibilidad de realizar auditorías a los códigos fuentes en los que se basan los programas que dictan dichos actos administrativos, así como el órgano competente a efectos de la impugnación de tal decisión. (Art 41.2 LRJSP. Ley 40/2015). A su vez, en términos muy parecidos, el Art 96.3 LGT Ley 58/2003, de 17 de diciembre, General Tributaria hace referencia también a las decisiones automatizadas(56).
+> Aparte de la nueva norma sobre protección de datos, cabe indicar determinadas normas nacionales que hacen mención a las decisiones automatizadas. Así, en el ámbito administrativo se hace referencia a la actuación administrativa automatizada, previéndose entre otras garantías la posibilidad de realizar auditorías a los códigos fuentes en los que se basan los programas que dictan dichos actos administrativos, así como el órgano competente a efectos de la impugnación de tal decisión. (Art 41.2 LRJSP. Ley 40/2015). A su vez, en términos muy parecidos, el Art 96.3 LGT Ley 58/2003, de 17 de diciembre, General Tributaria hace referencia también a las decisiones automatizadas(56).
 
 ## Transparència
 
@@ -196,4 +190,4 @@ https://oeiac.cat/preavaluacio/
 ***
 <p>
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Llicència de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Aquesta obra està subjecta a una llicència de <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Reconeixement-NoComercial-CompartirIgual 4.0 Internacional de Creative Commons</a>
-</p>
+</p> Esteve Ll.
