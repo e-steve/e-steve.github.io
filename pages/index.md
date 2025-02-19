@@ -22,7 +22,7 @@ permalink: /
 ### Dret administratiu i Contractació
 
 #### LCSP: DA25
-*Disposición adicional vigésima quinta. Protección de datos de carácter personal.
+Disposición adicional vigésima quinta. Protección de datos de carácter personal.
 1. Los contratos regulados en la presente Ley que impliquen el tratamiento de datos de carácter personal deberán respetar en su integridad la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, y su normativa de desarrollo.
 
 2. Para el caso de que la contratación implique el acceso del contratista a datos de carácter personal de cuyo tratamiento sea responsable la entidad contratante, aquel tendrá la consideración de encargado del tratamiento.
