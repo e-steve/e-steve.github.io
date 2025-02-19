@@ -197,12 +197,17 @@ https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit
 
 [OEIAC](https://oeiac.cat/cataleg-legal/)
 
+>
 [MODEL PIO](https://politiquesdigitals.gencat.cat/ca/detalls/Noticia/model-pio)
 
 https://politiquesdigitals.gencat.cat/ca/economia/catalonia-ai/index.html
 
 https://airacat.eu/ca/
 
+>
+https://www.aepd.es/prensa-y-comunicacion/blog/datos-e-informacion-en-inteligencia-artificial
+
+>
 https://eur-lex.europa.eu/eli/dir/2022/2555/oj
 
 
