@@ -125,6 +125,12 @@ En estos casos, el tercero tendrá también la consideración de encargado del t
  
 ## Doctrina administrativa
 
+[Guia de adecuación del ENS](https://ametic.es/wp-content/uploads/2022/07/guia_ENS_AMETIC.pdf)
+
+[**Listado de cumplimiento normativo**](https://www.aepd.es/guias/guia-listado-de-cumplimiento-del-rgpd.pdf)
+
+[Implantación del ENS](https://ametic.es/wp-content/uploads/2022/07/guia_ENS_AMETIC.pdf)
+
 >
 [**Cuándo hay que revisar las medidas de protección de datos**](https://www.aepd.es/prensa-y-comunicacion/blog/cuando-hay-que-revisar-las-medidas-de-proteccion-de-datos)
 >
@@ -148,6 +154,10 @@ En estos casos, el tercero tendrá también la consideración de encargado del t
 
 *La figura de responsable de un tratamiento se define en el RGPD, en el artículo 4.730 del RGPD como la persona que determine los fines y medios del tratamiento, y el ámbito de sus obligaciones, que se enmarcan en el artículo 24, incluye, entre otras, la de “aplicar medidas técnicas y organizativas apropiadas a fin de garantizar y poder demostrar que el tratamiento
 es conforme con el presente Reglamento”.*
+
+[ACCEDE A LA GUIA CCN-STIC 882 DE ANÁLISIS DE RIESGOS PARA ENTIDADES LOCALES](https://www.ccn-cert.cni.es/comunicacion-eventos/comunicados-ccn-cert/8309-publicada-la-guia-ccn-stic-882-de-analisis-de-riesgos-para-entidades-locales.html)
+
+[ACCEDE A LA GUIA CCN-STIC 809 SOBRE DECLARACIÓN Y CERTIFICACIÓN DE CONFORMIDAD CON EL ENS Y DISTINTIVOS DE CUMPLIMIENTO](https://www.ccn-cert.cni.es/comunicacion-eventos/comunicados-ccn-cert/8318-actualizacion-de-la-guia-ccn-stic-809-sobre-declaracion-y-certificacion-de-conformidad-con-el-ens-y-distintivos-de-cumplimiento.html)
 
 **Corresponsable**
 
