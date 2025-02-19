@@ -22,6 +22,7 @@ Principi d’integritat i confidencialitat.
 ## Normativa
 >
 [**Reglamento (UE) 2024/1689 BOE**](https://www.boe.es/buscar/doc.php?id=DOUE-L-2024-81079)
+>
 [**Reglamento (UE) 2024/1689 EUR-Lex**](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024R1689)
 
 > 
