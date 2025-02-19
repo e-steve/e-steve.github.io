@@ -89,7 +89,11 @@ En estos casos, el tercero tendrá también la consideración de encargado del t
  
 ## Doctrina administrativa
 
+[**Cuándo hay que revisar las medidas de protección de datos**](https://www.aepd.es/prensa-y-comunicacion/blog/cuando-hay-que-revisar-las-medidas-de-proteccion-de-datos)
+
 [**Opinion 28/2024 on certain data protection aspects related to the processing of personal data in the context of AI models**](https://www.edpb.europa.eu/our-work-tools/our-documents/opinion-board-art-64/opinion-282024-certain-data-protection-aspects_en)
+
+[Requisitos para Auditorías de Tratamientos que incluyan IA](https://www.aepd.es/guias/requisitos-auditorias-tratamientos-incluyan-ia.pdf)
 
 [**Guía Requisitos para auditorías de tratamientos de datos personales que incluyan Inteligencia Artificial**](https://www.aepd.es/documento/requisitos-auditorias-tratamientos-incluyan-ia.pdf)
 
