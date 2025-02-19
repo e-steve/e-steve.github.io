@@ -7,7 +7,7 @@ permalink: /
 
 # Digest normatiu d'IA i Protecció de dades
 
-Els principis rectors del tractament de dades personals es troben recollits principalment en l’article 5è:
+Els principis rectors del tractament de dades personals es troben recollits en l’article 5è:
 https://formaciooberta.eapc.gencat.cat/contingutsdelscursos/tdp/020_ppis/inici.html
 ```
 Principi de responsabilitat proactiva (accountability)
