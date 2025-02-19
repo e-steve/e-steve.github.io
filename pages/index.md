@@ -20,47 +20,23 @@ Principi d’integritat i confidencialitat.
 ```
 
 ## Normativa
->
+>IA
 [**Reglamento (UE) 2024/1689 BOE**](https://www.boe.es/buscar/doc.php?id=DOUE-L-2024-81079)
 >
 [**Reglamento (UE) 2024/1689 EUR-Lex**](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024R1689)
 
-> 
+>DP
 [**Reglamento (UE) 2016/679**](https://www.boe.es/buscar/doc.php?id=DOUE-L-2016-80807)
+>
 [**RGPD Eur-Lex**](https://eur-lex.europa.eu/ES/legal-content/summary/general-data-protection-regulation-gdpr.html)
 
 [Ley Europea de Chips](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/european-chips-act_es)
+
 [Reglamento de servicios digitales](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act_es)
+
 [Reglamento de Mercados Digitales: garantizar unos mercados digitales justos y abiertos.](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-markets-act-ensuring-fair-and-open-digital-markets_es)
+
 [Entrada en vigor de la Ley sobre la Europa Interoperable](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age_es#:~:text=Entrada%20en%20vigor%20de%20la%20Ley%20sobre%20la%20Europa%20Interoperable)
-
-### Dret administratiu i Contractació
-
-[Real Decreto-ley 14/2019, de 31 de octubre, por el que se adoptan medidas urgentes por razones de seguridad pública en materia de administración digital, contratación del sector público y telecomunicaciones.](https://www.boe.es/buscar/act.php?id=BOE-A-2019-15790)
-
-#### LCSP: DA25
->
-Disposición adicional vigésima quinta. Protección de datos de carácter personal.
-
-1. Los contratos regulados en la presente Ley que impliquen el tratamiento de datos de carácter personal deberán respetar en su integridad la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, y su normativa de desarrollo.
-
-2. Para el caso de que la contratación implique el acceso del contratista a datos de carácter personal de cuyo tratamiento sea responsable la entidad contratante, aquel tendrá la consideración de encargado del tratamiento.
-
-En este supuesto, el acceso a esos datos no se considerará comunicación de datos, cuando se cumpla lo previsto en el artículo 12.2 y 3 de la Ley Orgánica 15/1999, de 13 de diciembre. En todo caso, las previsiones del artículo 12.2 de dicha Ley deberán de constar por escrito.
-
-Cuando finalice la prestación contractual los datos de carácter personal deberán ser destruidos o devueltos a la entidad contratante responsable, o al encargado de tratamiento que esta hubiese designado.
-
-El tercero encargado del tratamiento conservará debidamente bloqueados los datos en tanto pudieran derivarse responsabilidades de su relación con la entidad responsable del tratamiento.
-
-3. En el caso de que un tercero trate datos personales por cuenta del contratista, encargado del tratamiento, deberán de cumplirse los siguientes requisitos:
-
-a) Que dicho tratamiento se haya especificado en el contrato firmado por la entidad contratante y el contratista.
-
-b) Que el tratamiento de datos de carácter personal se ajuste a las instrucciones del responsable del tratamiento.
-
-c) Que el contratista encargado del tratamiento y el tercero formalicen el contrato en los términos previstos en el artículo 12.2 de la Ley Orgánica 15/1999, de 13 de diciembre.
-
-En estos casos, el tercero tendrá también la consideración de encargado del tratamiento.*
 
 ### Códigos electrónicos del BOE (actualizats):
 
@@ -92,8 +68,35 @@ En estos casos, el tercero tendrá también la consideración de encargado del t
 >
 [El nou reglament europeu de protecció de dades i la seva incidència en els contractes públics](https://formaciooberta.eapc.gencat.cat/espaistematics/contractacio/el-nou-reglament-europeu-de-proteccio-de-dades-i-la-seva-incidencia-en-els-contractes-publics.html)
 
-### Propietat intel·lectual/industrial
+### Dret administratiu i Contractació
 
+[Real Decreto-ley 14/2019, de 31 de octubre, por el que se adoptan medidas urgentes por razones de seguridad pública en materia de administración digital, contratación del sector público y telecomunicaciones.](https://www.boe.es/buscar/act.php?id=BOE-A-2019-15790)
+
+#### LCSP: DA25
+>
+Disposición adicional vigésima quinta. Protección de datos de carácter personal.
+
+1. Los contratos regulados en la presente Ley que impliquen el tratamiento de datos de carácter personal deberán respetar en su integridad la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, y su normativa de desarrollo.
+
+2. Para el caso de que la contratación implique el acceso del contratista a datos de carácter personal de cuyo tratamiento sea responsable la entidad contratante, aquel tendrá la consideración de encargado del tratamiento.
+
+En este supuesto, el acceso a esos datos no se considerará comunicación de datos, cuando se cumpla lo previsto en el artículo 12.2 y 3 de la Ley Orgánica 15/1999, de 13 de diciembre. En todo caso, las previsiones del artículo 12.2 de dicha Ley deberán de constar por escrito.
+
+Cuando finalice la prestación contractual los datos de carácter personal deberán ser destruidos o devueltos a la entidad contratante responsable, o al encargado de tratamiento que esta hubiese designado.
+
+El tercero encargado del tratamiento conservará debidamente bloqueados los datos en tanto pudieran derivarse responsabilidades de su relación con la entidad responsable del tratamiento.
+
+3. En el caso de que un tercero trate datos personales por cuenta del contratista, encargado del tratamiento, deberán de cumplirse los siguientes requisitos:
+
+a) Que dicho tratamiento se haya especificado en el contrato firmado por la entidad contratante y el contratista.
+
+b) Que el tratamiento de datos de carácter personal se ajuste a las instrucciones del responsable del tratamiento.
+
+c) Que el contratista encargado del tratamiento y el tercero formalicen el contrato en los términos previstos en el artículo 12.2 de la Ley Orgánica 15/1999, de 13 de diciembre.
+
+En estos casos, el tercero tendrá también la consideración de encargado del tratamiento.*
+
+### Propietat intel·lectual/industrial
 
 ### En tramitació:
 [Projecte Identidad Digital Europea](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/european-digital-identity_es)
