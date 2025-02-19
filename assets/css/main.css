@@ -31,6 +31,7 @@ a, button, input, label {
 a {
     color: inherit;
     text-decoration: none;
+    text-align: justify;
 }
 small, sub, sup {
     font-size: 80%}
